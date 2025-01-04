@@ -45,5 +45,5 @@ Key DAX measures were developed in Power BI to calculate metrics like liquidity 
 * SQL: For data cleaning, transformations, and analytics.
 * Power BI Desktop: For creating interactive and dynamic dashboards.
 * DAX: For advanced calculations in Power BI.
- ### Interactive Dashboard Link : [ITC Stock Market Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiMTk1OTdlZGQtYjM2Mi00YjJjLTgwYmEtN2Y2OTcwMjk0ZDc2IiwidCI6IjEyMzM5ZGVkLTZmZjctNDE5ZS04MjA2LWFmNTA2NzUyMmYxYyJ9)
+ ### Interactive Dashbord Link : [ITC Stock Market Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiMTk1OTdlZGQtYjM2Mi00YjJjLTgwYmEtN2Y2OTcwMjk0ZDc2IiwidCI6IjEyMzM5ZGVkLTZmZjctNDE5ZS04MjA2LWFmNTA2NzUyMmYxYyJ9)
 
